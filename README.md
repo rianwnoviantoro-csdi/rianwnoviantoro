@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rianwnoviantoro
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning spring boot, reactjs, laravel, vuejs
 - 📫 rianwnoviantoro@gmail.com
 
 <!---
